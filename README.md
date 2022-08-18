@@ -9,4 +9,4 @@ https://sminker0401.github.io/Horiseon-Refactor/
 
 https://github.com/Sminker0401/Horiseon-Refactor
 
-https://user-images.githubusercontent.com/110298751/185470949-34c44b78-cec7-4831-a762-6daf83812939.png
+image.png
